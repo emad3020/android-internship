@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.askerlap.emad.exercise10layout_activity.SecondActivity">
+
+</android.support.constraint.ConstraintLayout>
+
+
+<!--
+    TODO(13) : Remove constraintLayout with FrameLayout
+    //TODO(14): Give the container center value for Layout_gravity property
+    //TODO(15): within the container add TextView with match parent width and wrap content height
+    //TODO(16): make the textSize to 23sp and black color
+    //TODO (17): give the textView id @+id/tv_result
+
+-->

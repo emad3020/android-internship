@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.askerlap.emad.exercise10layout_activity.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
+
+
+<!--
+    TODO (2): Remove the constrainLayout with RelativeLayout
+    TODO (3): Give the TextView id
+    TODO (4): Make the text size to 20sp with color black
+    TODO (5): Add EditText with the same properties of TextView and a hint Enter your value
+    TODO (6): Add Button to the bottom of the EditText with margin 10dp , with text Show Factor
+
+
+
+-->
